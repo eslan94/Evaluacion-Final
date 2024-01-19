@@ -1,0 +1,11 @@
+#container-uno{
+    border: 2px solid blue;
+    color: chocolate;
+    text-align: center;
+}
+
+#container-dos{
+    border: 2px solid blueviolet;
+    color: cadetblue;
+    text-align: center;
+}
